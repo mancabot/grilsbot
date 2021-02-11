@@ -17,7 +17,7 @@ const BotName = 'GrilsBot';
 const instagram = 'https://instagram.com/thenay_xploit_'; 
 const telegram = 'https://t.me/fakboy'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-//const youtube = 'belum ada YouTube';
+const youtube = 'belum ada YouTube';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
