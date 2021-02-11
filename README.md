@@ -1,4 +1,4 @@
-## MancaGril
+## GRILSBOT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/mancamay/mancagrils
-> cd mancagrils
+> git clone https://github.com/mancabot/grilsbot
+> cd grilsbot
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
@@ -54,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 083815956151 MancaMay
+* Gopay : 083815956151 MANCABOT
