@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancamay/mancagrils"
+    "url": "git+https://github.com/mancabot/grilsbot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mancamay/mancagrils/issues"
+    "url": "https://github.com/mancabot/grilsbot/issues"
   },
-  "homepage": "https://github.com/mancamay/mancagrils#readme"
+  "homepage": "https://github.com/mancabot/grilsbot#readme"
 }
