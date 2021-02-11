@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'MancaGrils'; 
+const BotName = 'GrilsBot'; 
 const instagram = 'https://instagram.com/thenay_xploit_'; 
 const telegram = 'https://t.me/fakboy'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
